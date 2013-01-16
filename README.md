@@ -12,7 +12,9 @@ You must install the latest Image Magick library and PdfTK
 ## Usage
 
 `mv converter.sh converter`
+
 `chmod a+x converter.sh`
+
 `./converter file-in.pdf file-out.pdf`
 
 ## ChangeLog
